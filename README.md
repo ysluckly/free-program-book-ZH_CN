@@ -1,4 +1,4 @@
-免费的编程中文书籍索引
+﻿免费的编程中文书籍索引
 ============================
 
 [![](https://img.shields.io/github/issues/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/issues)  [![](https://img.shields.io/github/forks/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/network) [![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/stargazers) [![](https://travis-ci.org/justjavac/free-programming-books-zh_CN.svg?branch=master)](https://travis-ci.org/justjavac/free-programming-books-zh_CN) [![](https://img.shields.io/github/release/justjavac/free-programming-books-zh_CN.svg)](https://github.com/justjavac/free-programming-books-zh_CN/releases)
@@ -9,9 +9,9 @@
 - [stackoverflow](http://stackoverflow.com/questions/38210/what-non-programming-books-should-programmers-read) 上的程序员应该阅读的非编程类书籍有哪些？ [中文版](what-non-programming-books-should-programmers-read.md)
 - [github](https://github.com/vhf/free-programming-books) 上的一个流行的编程书籍索引  [中文版](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
-欢迎订阅我的微信公众帐号，只推送原创文字。欢迎扫描二维码订阅：
+欢迎订阅我的微信公众帐号，欢迎扫描二维码订阅：
 
-![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
+![justjavac微信公众帐号](https://cdn.jsdelivr.net/gh/ysliving/ImageHost/living/20210909033130.png)
 
 ## 参与交流
 
